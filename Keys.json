@@ -7,6 +7,13 @@
     "allowOffline": true
   },
   {
+    "id": "2957242dd1e8ca8b",
+    "username": "dpmod",
+    "password": "dpmod",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
     "id": "81ad366be8a2ca24",
     "username": "anonymous",
     "password": "81ad366be8a2ca24",
