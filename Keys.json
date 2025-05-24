@@ -40,5 +40,12 @@
     "password": "Miguel2",
     "expiresAt": "2025-6-22",
     "allowOffline": false
+  },
+  {
+    "id": "ff028628a637241c",
+    "username": "Miguel3",
+    "password": "Miguel3",
+    "expiresAt": "2025-6-24",
+    "allowOffline": false
   }
 ]
