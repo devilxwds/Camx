@@ -54,5 +54,12 @@
     "password": "eduard",
     "expiresAt": "2025-6-27",
     "allowOffline": false
+  },
+  {
+    "id": "a9ea8a1f80febfeb",
+    "username": "brian",
+    "password": "brian",
+    "expiresAt": "2025-6-30",
+    "allowOffline": false
   }
 ]
